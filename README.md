@@ -9,6 +9,9 @@ The motivation behind this project is to find out where else I would like to liv
 Data Questions:
 
 Which city is the safest?
-Which city is the most affordable 
+
+Which city is the most affordable
+
 Which city has the most activities?
+
 Between Nashville and Denver which is the best city for me to live in?
